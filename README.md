@@ -1,6 +1,4 @@
-![Head](https://www.wallpapertip.com/wmimgs/83-838172_programming-javascript.jpg)
-
-<br />
+[//]: < ![Head](https://www.wallpapertip.com/wmimgs/83-838172_programming-javascript.jpg) >
 
 # Hi there 👋, I'm Alexandre
 
