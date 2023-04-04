@@ -28,12 +28,11 @@
 
 <br />
 
-# 📊 GitHub Stats:
+[//]: < # 📊 GitHub Stats: >
 
-![](https://github-readme-stats.vercel.app/api?username=Alexandre-st&theme=react&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-st&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[//]: < ![](https://github-readme-stats.vercel.app/api?username=Alexandre-st&theme=react&hide_border=true&include_all_commits=true&count_private=false) >
+[//]: < ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-st&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) >
 
-<br />
 
 ## 🌐 Connect with me:
 
